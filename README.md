@@ -1,4 +1,4 @@
-1. Replace src folder with your src folder.
+1. Replace your src folder with this src folder.
 
 2. npm install
 
